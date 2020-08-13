@@ -7,3 +7,4 @@ Experineced software instructor with deep knowledge of the following software pr
    * Microsoft C# .Net
    * Gift & GitHub.
    * MySQL
+   * Java
